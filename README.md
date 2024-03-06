@@ -23,3 +23,4 @@ Siga a documentação oficial do Vision Studio (https://es.wiktionary.org/wiki/r
 ## Detetive de Faces
 
 Com o Vision Studio em mãos, assuma o papel de detetive e use a função de detecção de faces para analisar imagens com e sem rostos. Explore imagens de pessoas reais e personagens de anima
+
